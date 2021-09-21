@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/coffee-projects/static/css/main.407969c8.chunk.css",
+    "main.js": "/coffee-projects/static/js/main.979d7df6.chunk.js",
+    "main.js.map": "/coffee-projects/static/js/main.979d7df6.chunk.js.map",
+    "runtime-main.js": "/coffee-projects/static/js/runtime-main.9d66b695.js",
+    "runtime-main.js.map": "/coffee-projects/static/js/runtime-main.9d66b695.js.map",
+    "static/js/2.0eab1bbf.chunk.js": "/coffee-projects/static/js/2.0eab1bbf.chunk.js",
+    "static/js/2.0eab1bbf.chunk.js.map": "/coffee-projects/static/js/2.0eab1bbf.chunk.js.map",
+    "index.html": "/coffee-projects/index.html",
+    "static/css/main.407969c8.chunk.css.map": "/coffee-projects/static/css/main.407969c8.chunk.css.map",
+    "static/js/2.0eab1bbf.chunk.js.LICENSE.txt": "/coffee-projects/static/js/2.0eab1bbf.chunk.js.LICENSE.txt",
+    "static/media/about-img.3f087d85.jpeg": "/coffee-projects/static/media/about-img.3f087d85.jpeg",
+    "static/media/blog-1.87bd2070.jpeg": "/coffee-projects/static/media/blog-1.87bd2070.jpeg",
+    "static/media/blog-2.93f4b59a.jpeg": "/coffee-projects/static/media/blog-2.93f4b59a.jpeg",
+    "static/media/blog-3.9076833f.jpeg": "/coffee-projects/static/media/blog-3.9076833f.jpeg",
+    "static/media/home-img.e39539bb.jpeg": "/coffee-projects/static/media/home-img.e39539bb.jpeg",
+    "static/media/menu-1.298439f7.png": "/coffee-projects/static/media/menu-1.298439f7.png",
+    "static/media/menu-2.39568caf.png": "/coffee-projects/static/media/menu-2.39568caf.png",
+    "static/media/menu-3.44d22122.png": "/coffee-projects/static/media/menu-3.44d22122.png",
+    "static/media/menu-4.c16f5358.png": "/coffee-projects/static/media/menu-4.c16f5358.png",
+    "static/media/menu-5.43f882bf.png": "/coffee-projects/static/media/menu-5.43f882bf.png",
+    "static/media/menu-6.09134729.png": "/coffee-projects/static/media/menu-6.09134729.png",
+    "static/media/pic-1.b105fe43.png": "/coffee-projects/static/media/pic-1.b105fe43.png",
+    "static/media/pic-2.5d5e42bf.png": "/coffee-projects/static/media/pic-2.5d5e42bf.png",
+    "static/media/pic-3.1ef1ecba.png": "/coffee-projects/static/media/pic-3.1ef1ecba.png",
+    "static/media/product-1.fab43136.png": "/coffee-projects/static/media/product-1.fab43136.png",
+    "static/media/product-2.1df5e326.png": "/coffee-projects/static/media/product-2.1df5e326.png",
+    "static/media/product-3.5c1364d4.png": "/coffee-projects/static/media/product-3.5c1364d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d66b695.js",
+    "static/js/2.0eab1bbf.chunk.js",
+    "static/css/main.407969c8.chunk.css",
+    "static/js/main.979d7df6.chunk.js"
+  ]
+}
