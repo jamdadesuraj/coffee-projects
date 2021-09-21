@@ -20,7 +20,7 @@ const Products = () => {
                     <img className="card-img-top" src={first_product} alt="Card image cap" className="img-fluid"/>
                     <div className="card-body">
                         <h5 className="card-title">Fresh Coffee</h5>
-                        <div className="stars">
+                        <div className="product_stars">
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>
@@ -38,7 +38,7 @@ const Products = () => {
                     <img className="card-img-top" src={seconsd_product} alt="Card image cap" className="img-fluid"/>
                     <div className="card-body">
                         <h5 className="card-title">Fresh Coffee</h5>
-                        <div className="stars">
+                        <div className="product_stars">
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>
@@ -57,7 +57,7 @@ const Products = () => {
                     <img className="card-img-top" src={third_product} alt="Card image cap" className="img-fluid"/>
                     <div className="card-body">
                         <h5 className="card-title">Fresh Coffee</h5>
-                        <div className="stars">
+                        <div className="product_stars">
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>
                     <i className="fas fa-star"></i>

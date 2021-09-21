@@ -375,8 +375,8 @@ padding-top: 8rem;
  color: #fff;
 }
 
-.stars{
-  margin-left:10rem;
+.product_stars{
+  margin-left:9rem;
   font-size:2rem;
   color:green;
 }
@@ -400,11 +400,11 @@ padding-top: 8rem;
     /* border: 1px solid gray; */
     padding:10px;
   }
-  .stars{
+  /* .stars{
     padding-left: 7rem;
     font-size:2rem;
     color:green;
-  }
+  } */
   .product_data img{
     height:300px;
     width: 200px;
